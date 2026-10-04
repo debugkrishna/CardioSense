@@ -14,11 +14,11 @@ The project covers the complete ML workflow: exploratory data analysis, preproce
 
 ### Patient Input Dashboard
 
-![CardioSense Dashboard](screenshots/cardiosense_dashboard.png)
+![CardioSense Dashboard](2026-10-04_16-47-01png)
 
 ### Prediction Result
 
-![CardioSense Prediction](screenshots/cardiosense_prediction.png)
+![CardioSense Prediction](2026-10-04_16-47-10png)
 
 ---
 
