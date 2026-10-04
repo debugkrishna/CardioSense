@@ -2,7 +2,7 @@
 
 ### Heart Disease Risk Prediction System
 
-CheckOut- https://cardiosense0.streamlit.app/
+Check it out- https://cardiosense0.streamlit.app/
 
 CardioSense is an end-to-end machine learning project that predicts the risk of heart disease from clinical patient information.
 
